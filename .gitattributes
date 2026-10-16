@@ -1,0 +1,5 @@
+# QUESTO E UN REPOSITORY DI DATI, NON DI CODICE.
+# Le tessere salgono byte per byte come le genera ritaglio-tessere.js: senza questa riga git
+# convertirebbe i fine riga su Windows e i file pubblicati sarebbero diversi da quelli misurati
+# e collaudati sul PC. Un dato che cambia nel viaggio e un dato di cui non ci si puo fidare.
+* -text
